@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///manual/"}
+{"dg-publish":true,"permalink":"///manual/","tags":["gardenEntry"]}
 ---
 
 ### 😀设备信息
