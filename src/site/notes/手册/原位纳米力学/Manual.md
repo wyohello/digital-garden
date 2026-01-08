@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///manual/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/手册/原位纳米力学/Manual/","tags":["gardenEntry"]}
 ---
 
 ### 😀设备信息
